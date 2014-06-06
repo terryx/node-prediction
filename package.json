@@ -1,0 +1,25 @@
+{
+  "name": "predicteksi",
+  "version": "0.0.1",
+  "description": "Prediction engine for myteksi",
+  "repository": {
+    "type": "git",
+    "url": null
+  },
+  "author": "Terry Bear <terryxlife@gmail.com>",
+  "dependencies": {
+    "bluebird": "^2.0.5",
+    "lodash": "^2.4.1",
+    "mysql": "^2.3.2",
+    "persist": "^0.2.7",
+    "redis": "^0.10.3"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "should": "^4.0.1"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}

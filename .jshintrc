@@ -1,0 +1,16 @@
+{
+    "undef": true,
+    "unused": true,
+    "curly": true,
+    "eqeqeq": true,
+    "latedef": true,
+    "trailing": true,
+    "indent": 4,
+    "node": true,
+    "maxlen": 300,
+    "globals": {
+        "_": false,
+        "require": false,
+        "describe": false
+    }
+}
